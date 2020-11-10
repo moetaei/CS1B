@@ -1,0 +1,38 @@
+Larger Balance:
+ID#      NAME                     BALANCE DUE
+----     --------------------     -----------
+1002     Steve Woolston           $   1423.20
+
+Smaller Balance:
+ID#      NAME                     BALANCE DUE
+----     --------------------     -----------
+1003     Don McBride              $     12.32
+
+Sum of All Balances
+$   4080.48
+
+Average of All Balances
+$    408.05
+
+Average of All Balances
+$    408.05
+
+Average of All Balances
+$    408.05
+
+Average of All Balances
+$    408.05
+
+Average of All Balances
+$    408.05
+
+Average of All Balances
+$    408.05
+
+Average of All Balances
+$    408.05
+
+Average of All Balances
+$    408.05
+
+Average of All Balances
