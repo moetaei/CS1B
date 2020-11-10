@@ -1,0 +1,11 @@
+*************************************************************
+* PROGRAMMED BY : Negin Mashhadi
+* STUDENT ID    : 1084104
+* CLASS         : CS1B - MW - 6:30pm
+* ASSIGNMENT #1 : Functions and Arrays
+*************************************************************
+
+
+Largest Balance: 
+ID #     NAME                     BALANCE DUE
+----     --------------------     -----------

@@ -1,0 +1,11 @@
+**************************************************
+* PROGRAMMED BY : Mohammed Taei & Braden Wurlitzer
+* STUDENT ID    : 1019392 & 1080774
+* CLASS         : CS1B - M/W 6:30-9:50PM
+*  LAB #3       : Function - GCD
+**************************************************
+
+The GCD for 1966825464 & 6618892 = 4
+The GCD for 1966825464 & 6618892 = 4
+The GCD for 1966825464 & 6618892 = 4
+The GCD for 1966825464 & 6618892 = 4
